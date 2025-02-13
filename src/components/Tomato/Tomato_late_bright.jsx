@@ -1,6 +1,6 @@
 import React from 'react'
 import Img14 from "../../assets/tomato-latebright.JPG";
-import Img15 from "../../assets/tomato-latebright2.JPG";
+import Img15 from "../../assets/tomato-latebright2.jpg";
 import Img16 from "../../assets/tomato-latebright3.JPG";
 
 const Tomato_late_bright = () => {

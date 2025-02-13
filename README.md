@@ -1,9 +1,9 @@
 🌱 Doc Plant Website 
 
 This website use for the your disease plants have solutions. 
+Vercel Link : https://doc-plant-website-xzqy.vercel.app/
 
-#run
-npm run dev
+
 
 
 
